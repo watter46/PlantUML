@@ -12,6 +12,9 @@ $ make init
 
 http://localhost:29000
 
+## 詳しい書き方
+<https://maku.blog/p/tn6y85z/>
+
 
 ## Notation
 
