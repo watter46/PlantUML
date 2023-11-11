@@ -6,6 +6,8 @@
 $ git clone git@github.com:watter46/PlantUML.git
 $ cd PlantUML
 $ make init
+
+Alt + Dでvscodeで起動できる
 ```
 
 ## Access
